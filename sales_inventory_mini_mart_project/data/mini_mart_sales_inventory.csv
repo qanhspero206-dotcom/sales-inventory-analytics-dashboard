@@ -1,0 +1,51 @@
+date,store_id,product_id,product_name,category,units_sold,revenue,current_stock,reorder_level,promotion_status
+2026-06-01,S001,P001,Bottled Water 500ml,Beverages,42,21.00,18,20,Promotion
+2026-06-01,S002,P002,Instant Noodles,Food,31,24.80,12,18,No Promotion
+2026-06-01,S003,P003,Fresh Milk 1L,Dairy,24,38.40,9,12,No Promotion
+2026-06-01,S004,P008,Shampoo 180ml,Personal Care,4,14.00,55,15,No Promotion
+2026-06-01,S005,P009,Rice Bag 5kg,Staples,3,24.00,42,10,No Promotion
+2026-06-02,S001,P006,Snack Chips,Snacks,28,33.60,21,15,Promotion
+2026-06-02,S002,P007,Soft Drink Can,Beverages,36,32.40,16,18,Promotion
+2026-06-02,S003,P004,Egg Pack 10pcs,Fresh Food,22,48.40,7,10,No Promotion
+2026-06-02,S004,P010,Yogurt Cup,Dairy,19,13.30,14,12,No Promotion
+2026-06-02,S005,P012,Frozen Dumplings,Frozen Food,5,21.00,36,8,No Promotion
+2026-06-03,S001,P002,Instant Noodles,Food,35,28.00,10,18,Promotion
+2026-06-03,S002,P005,Sandwich Bread,Bakery,26,36.40,8,12,No Promotion
+2026-06-03,S003,P001,Bottled Water 500ml,Beverages,48,24.00,6,20,Promotion
+2026-06-03,S004,P011,Ready-to-drink Coffee,Beverages,20,22.00,13,14,No Promotion
+2026-06-03,S005,P008,Shampoo 180ml,Personal Care,3,10.50,61,15,No Promotion
+2026-06-04,S001,P003,Fresh Milk 1L,Dairy,18,28.80,17,12,No Promotion
+2026-06-04,S002,P006,Snack Chips,Snacks,30,36.00,18,15,Promotion
+2026-06-04,S003,P007,Soft Drink Can,Beverages,39,35.10,8,18,Promotion
+2026-06-04,S004,P009,Rice Bag 5kg,Staples,2,16.00,50,10,No Promotion
+2026-06-04,S005,P004,Egg Pack 10pcs,Fresh Food,25,55.00,6,10,No Promotion
+2026-06-05,S001,P005,Sandwich Bread,Bakery,29,40.60,11,12,No Promotion
+2026-06-05,S002,P001,Bottled Water 500ml,Beverages,44,22.00,19,20,Promotion
+2026-06-05,S003,P002,Instant Noodles,Food,38,30.40,5,18,Promotion
+2026-06-05,S004,P012,Frozen Dumplings,Frozen Food,6,25.20,34,8,No Promotion
+2026-06-05,S005,P010,Yogurt Cup,Dairy,21,14.70,9,12,No Promotion
+2026-06-06,S001,P007,Soft Drink Can,Beverages,41,36.90,15,18,Promotion
+2026-06-06,S002,P003,Fresh Milk 1L,Dairy,20,32.00,14,12,No Promotion
+2026-06-06,S003,P006,Snack Chips,Snacks,33,39.60,10,15,Promotion
+2026-06-06,S004,P008,Shampoo 180ml,Personal Care,5,17.50,58,15,No Promotion
+2026-06-06,S005,P011,Ready-to-drink Coffee,Beverages,24,26.40,11,14,No Promotion
+2026-06-07,S001,P004,Egg Pack 10pcs,Fresh Food,19,41.80,13,10,No Promotion
+2026-06-07,S002,P010,Yogurt Cup,Dairy,23,16.10,16,12,No Promotion
+2026-06-07,S003,P005,Sandwich Bread,Bakery,31,43.40,7,12,Promotion
+2026-06-07,S004,P009,Rice Bag 5kg,Staples,4,32.00,47,10,No Promotion
+2026-06-07,S005,P001,Bottled Water 500ml,Beverages,51,25.50,4,20,Promotion
+2026-06-08,S001,P011,Ready-to-drink Coffee,Beverages,27,29.70,12,14,Promotion
+2026-06-08,S002,P012,Frozen Dumplings,Frozen Food,7,29.40,31,8,No Promotion
+2026-06-08,S003,P003,Fresh Milk 1L,Dairy,26,41.60,8,12,No Promotion
+2026-06-08,S004,P006,Snack Chips,Snacks,25,30.00,20,15,Promotion
+2026-06-08,S005,P002,Instant Noodles,Food,40,32.00,6,18,Promotion
+2026-06-09,S001,P008,Shampoo 180ml,Personal Care,6,21.00,52,15,No Promotion
+2026-06-09,S002,P009,Rice Bag 5kg,Staples,5,40.00,38,10,No Promotion
+2026-06-09,S003,P010,Yogurt Cup,Dairy,22,15.40,10,12,No Promotion
+2026-06-09,S004,P001,Bottled Water 500ml,Beverages,37,18.50,17,20,Promotion
+2026-06-09,S005,P007,Soft Drink Can,Beverages,43,38.70,5,18,Promotion
+2026-06-10,S001,P012,Frozen Dumplings,Frozen Food,8,33.60,29,8,No Promotion
+2026-06-10,S002,P004,Egg Pack 10pcs,Fresh Food,21,46.20,12,10,No Promotion
+2026-06-10,S003,P011,Ready-to-drink Coffee,Beverages,29,31.90,9,14,Promotion
+2026-06-10,S004,P005,Sandwich Bread,Bakery,24,33.60,14,12,No Promotion
+2026-06-10,S005,P003,Fresh Milk 1L,Dairy,28,44.80,7,12,No Promotion
