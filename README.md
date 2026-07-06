@@ -5,7 +5,7 @@
 
 This beginner-friendly data analytics project analyzes sales and inventory data for a mini mart. The dashboard helps identify best-selling products, stockout-risk products, slow-moving inventory, and practical restocking recommendations.
 
-The project is designed for a student data analytics portfolio and demonstrates how raw CSV data can be turned into business insights using Python and Streamlit.
+The project demonstrates how raw CSV data can be turned into business insights using Python and Streamlit.
 
 ## Business Problem
 
